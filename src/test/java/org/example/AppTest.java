@@ -89,7 +89,7 @@ public class AppTest
         ;
     }
 
-    /**-------------Retorna Usuario BR,US,ES OU CA -------------------*/
+    /**-------------Retorna Usuario BR,US,ES OU CA ---------------------*/
 
     @Test
     public void retornarUsuarioBrUsEsCa(){
