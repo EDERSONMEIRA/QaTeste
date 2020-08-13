@@ -103,7 +103,7 @@ public class AppTest
                 .get("")
                 .then()
                 .statusCode(200)
-                .extract().path("results[0].nat ")
+                .extract().path("results[0].nat")
         ;
 
         System.out.println(nat);
